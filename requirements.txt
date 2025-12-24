@@ -1,0 +1,15 @@
+langchain==0.3.7
+langchain-openai==0.2.9
+langchain-community==0.3.7
+
+google-api-python-client==2.154.0
+google-auth==2.36.0
+google-auth-oauthlib==1.2.1
+
+python-dotenv==1.0.1
+python-dateutil==2.9.0.post0
+pydantic==2.9.2
+rich==13.9.4
+
+# если выберешь Telegram
+python-telegram-bot==21.6
